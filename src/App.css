@@ -1,0 +1,13 @@
+.Article_card_main{
+    /* padding: 10px; */
+    border-radius: 10px;
+    border: 1px solid #d3d3d3;
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.Article_card_main img {
+  width: 100%;
+  height: 100%;
+}
